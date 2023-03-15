@@ -39,7 +39,7 @@ class QuestionsViewController: UIViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
-        updateUI()
+       
     }
 
     @IBAction func singelButtonPressed(_ sender: UIButton) {
